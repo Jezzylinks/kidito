@@ -99,7 +99,7 @@ RECENT REVISION HISTORY:
     Phil Jordan                                Dave Moore           Roy Eltham
     Hayaki Saito            Nathan Reed        Won Chun
     Luke Graham             Johan Duparc       Nick Verigakis       the Horde3D community
-    Thomas Ruf              Ronny Chevalier                         github:rlyeh
+    Thomas Ruf              Ronny Chevalier    Johnson Ogbu                     github:rlyeh
     Janez Zemva             John Bartholomew   Michal Cichon        github:romigrou
     Jonathan Blow           Ken Hamada         Tero Hanninen        github:svdijk
                             Laurent Gomila     Cort Stratton        github:snagar
